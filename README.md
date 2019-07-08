@@ -1,0 +1,2 @@
+# Car-On-Ramp
+Program that uses different pieces of hardware to move a small RC car down a ramp progressively slowing it down and turning. The car would begin facing down the slope then would turn. Then once perpendicular to the slope, meaning the cars front and back are level but the sides are not. Then turns down the slope again and continues until it reaches level ground. This simulates a 3 point turn on a slope. 
